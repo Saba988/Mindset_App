@@ -1,0 +1,69 @@
+{
+    "saba123@gmail.com": {
+        "wallet": 5,
+        "mindcoins": 0,
+        "active": [],
+        "completed": []
+    },
+    "johndoe2@gmail.com": {
+        "wallet": 1,
+        "mindcoins": 24,
+        "active": [],
+        "completed": [
+            {
+                "title": "Drink 8 glasses of water",
+                "description": "Stay hydrated throughout the day",
+                "reward": 5
+            },
+            {
+                "title": "Read 10 pages of a book",
+                "description": "Expand your knowledge",
+                "reward": 7
+            },
+            {
+                "title": "Write down 3 things you're grateful for",
+                "description": "Practice gratitude",
+                "reward": 6
+            },
+            {
+                "title": "Write down 3 things you're grateful for",
+                "description": "Practice gratitude",
+                "reward": 6
+            }
+        ]
+    },
+    "final@gmail.com": {
+        "wallet": 5,
+        "mindcoins": 0,
+        "active": [],
+        "completed": []
+    },
+    "sabajunaid45@gmail.com": {
+        "wallet": 1,
+        "mindcoins": 23,
+        "active": [
+            {
+                "title": "Read 10 pages of a book",
+                "description": "Expand your knowledge",
+                "reward": 7
+            }
+        ],
+        "completed": [
+            {
+                "title": "Drink 8 glasses of water",
+                "description": "Stay hydrated throughout the day",
+                "reward": 5
+            },
+            {
+                "title": "Exercise for 20 minutes",
+                "description": "Move your body",
+                "reward": 10
+            },
+            {
+                "title": "Meditate for 10 minutes",
+                "description": "Clear your mind",
+                "reward": 8
+            }
+        ]
+    }
+}
