@@ -27,5 +27,5 @@ To turn personal development into a habit by combining motivation, accountabilit
 ### 1. Clone the Project or Download ZIP
 
 ```bash
-git clone https://github.com/yourusername/mindset_app.git
+git clone https://github.com/Saba988/Mindset_App.git
 cd mindset_app
